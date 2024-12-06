@@ -11,8 +11,7 @@ This Bash script downloads files from a list of URLs provided in a `urls.txt` fi
 
 1. Bash
 2. `aria2c`
-3. `curl`
-4. dos2unix
+3. dos2unix
 
 ---
 
